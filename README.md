@@ -1,2 +1,2 @@
 # sap-plm-product-workflow
-SAP SBWP (small business workplace) process development to harmonize PLM and manufacturing culture
+## Context / ## Problem / ## My Role / ## Approach / ## Outcomes / ## Artifacts.
